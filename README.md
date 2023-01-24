@@ -2,14 +2,18 @@
 # Bootcamp Challenge No 4
 
 This repository contains:
-The folder PyCitySchools. Inside of this you will find:
+
+This file with the conclusions of the analysis.
+
+The folder PyCitySchools. 
+    Inside of this you will find:
 
 1. The folder Resources, which includes:
     -The files students_complete.csv and schools_complete.csv, data sources for the excercise.
 
-2.  The file PyCityschools.jnpy with the code to run.
+2.  The file PyCityschoolsfinal.jnpy with the code to run.
 
-3.  This file with the conclusions of the analysis. 
+ 
 
 ### PYCITY SCHOOLS ANALYSIS
 
@@ -46,7 +50,8 @@ Even when comparing the scores by years charter schools deliver better results i
 Lastly, we note the trend we have seen (Charters performing better than public schools) are consistent every time. Based in the school spending of each we see medium and small budget schools deliver much better results than larger schools, and the same holds for number of students. In fact, the only big school where students have high scores and passing rates is Wilson High School, which is the biggest charter in the District.   
 
 ![BUDGET BINS](Budget_bins.png) 
-![STUDENT BINS](Number_of_student_bins.png)
+
+![STUDENT BINS](Number_of_students_bins.png)
 
 
 ## Conclusions
